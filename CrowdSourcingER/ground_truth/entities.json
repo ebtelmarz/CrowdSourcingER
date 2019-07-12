@@ -1,0 +1,4621 @@
+[
+    {
+        "resource_class": "entity",
+        "resource_id": "ENTITY#4",
+        "claims": [
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#11",
+                "target_attribute_name": "camera_type",
+                "provenances": [
+                    "PROVENANCE#444891"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#8",
+                "target_attribute_name": "camera_depth",
+                "provenances": [
+                    "PROVENANCE#444897"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#9",
+                "target_attribute_name": "camera_dimension",
+                "provenances": [
+                    "PROVENANCE#444897"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#52",
+                "target_attribute_name": "zoom_digital",
+                "provenances": [
+                    "PROVENANCE#444896",
+                    "PROVENANCE#210217"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#23",
+                "target_attribute_name": "image_resolution",
+                "provenances": [
+                    "PROVENANCE#442557",
+                    "PROVENANCE#444900",
+                    "PROVENANCE#416566",
+                    "PROVENANCE#416581"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#21",
+                "target_attribute_name": "focal_length_range",
+                "provenances": [
+                    "PROVENANCE#416563"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#20",
+                "target_attribute_name": "focal_length_min",
+                "provenances": [
+                    "PROVENANCE#416563"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#19",
+                "target_attribute_name": "focal_length_max",
+                "provenances": [
+                    "PROVENANCE#416563"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#37",
+                "target_attribute_name": "sensor_type",
+                "provenances": [
+                    "PROVENANCE#444916",
+                    "PROVENANCE#416587"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#24",
+                "target_attribute_name": "internal_memory_capacity",
+                "provenances": [
+                    "PROVENANCE#444889"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#33",
+                "target_attribute_name": "screen_size",
+                "provenances": [
+                    "PROVENANCE#442561",
+                    "PROVENANCE#444914",
+                    "PROVENANCE#210226",
+                    "PROVENANCE#416583"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#47",
+                "target_attribute_name": "video_resolution",
+                "provenances": [
+                    "PROVENANCE#416590"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#17",
+                "target_attribute_name": "external_memory_type",
+                "provenances": [
+                    "PROVENANCE#416573"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#53",
+                "target_attribute_name": "zoom_optical",
+                "provenances": [
+                    "PROVENANCE#442565",
+                    "PROVENANCE#442566",
+                    "PROVENANCE#444912",
+                    "PROVENANCE#210225",
+                    "PROVENANCE#416577"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#12",
+                "target_attribute_name": "camera_width",
+                "provenances": [
+                    "PROVENANCE#444897"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#7",
+                "target_attribute_name": "brand",
+                "provenances": [
+                    "PROVENANCE#442556",
+                    "PROVENANCE#442556",
+                    "PROVENANCE#416554",
+                    "PROVENANCE#416578"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#13",
+                "target_attribute_name": "color",
+                "provenances": [
+                    "PROVENANCE#442558",
+                    "PROVENANCE#444893",
+                    "PROVENANCE#210216"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#35",
+                "target_attribute_name": "self_timer",
+                "provenances": [
+                    "PROVENANCE#444915",
+                    "PROVENANCE#416585"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#6",
+                "target_attribute_name": "battery_type",
+                "provenances": [
+                    "PROVENANCE#444887"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#15",
+                "target_attribute_name": "exposure_compensation",
+                "provenances": [
+                    "PROVENANCE#416560"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#16",
+                "target_attribute_name": "exposure_mode",
+                "provenances": [
+                    "PROVENANCE#444901"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#22",
+                "target_attribute_name": "image_format",
+                "provenances": [
+                    "PROVENANCE#444903",
+                    "PROVENANCE#416564"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#46",
+                "target_attribute_name": "video_format",
+                "provenances": [
+                    "PROVENANCE#444903",
+                    "PROVENANCE#416557"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#25",
+                "target_attribute_name": "iso_sensitivity_max",
+                "provenances": [
+                    "PROVENANCE#444907",
+                    "PROVENANCE#416569"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#27",
+                "target_attribute_name": "iso_sensitivity_range",
+                "provenances": [
+                    "PROVENANCE#444907",
+                    "PROVENANCE#416569"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#26",
+                "target_attribute_name": "iso_sensitivity_min",
+                "provenances": [
+                    "PROVENANCE#444907",
+                    "PROVENANCE#416569"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#36",
+                "target_attribute_name": "sensor_size",
+                "provenances": [
+                    "PROVENANCE#444916",
+                    "PROVENANCE#416586"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#38",
+                "target_attribute_name": "shutter_speed_max",
+                "provenances": [
+                    "PROVENANCE#444918",
+                    "PROVENANCE#210222",
+                    "PROVENANCE#416572"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#40",
+                "target_attribute_name": "shutter_speed_range",
+                "provenances": [
+                    "PROVENANCE#444918",
+                    "PROVENANCE#210222",
+                    "PROVENANCE#210224",
+                    "PROVENANCE#416572",
+                    "PROVENANCE#416576"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#39",
+                "target_attribute_name": "shutter_speed_min",
+                "provenances": [
+                    "PROVENANCE#444918",
+                    "PROVENANCE#210224",
+                    "PROVENANCE#416576"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#10",
+                "target_attribute_name": "camera_height",
+                "provenances": [
+                    "PROVENANCE#444897"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#2",
+                "target_attribute_name": "auto_focus_mode",
+                "provenances": [
+                    "PROVENANCE#416551"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#34",
+                "target_attribute_name": "screen_type",
+                "provenances": [
+                    "PROVENANCE#444898",
+                    "PROVENANCE#416584"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#4",
+                "target_attribute_name": "battery_chemistry",
+                "provenances": [
+                    "PROVENANCE#416552"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#49",
+                "target_attribute_name": "white_balance",
+                "provenances": [
+                    "PROVENANCE#444922",
+                    "PROVENANCE#416592"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#29",
+                "target_attribute_name": "microphone_type",
+                "provenances": [
+                    "PROVENANCE#416575"
+                ]
+            }
+        ],
+        "instances": [
+            "JSON#28167",
+            "JSON#28258",
+            "JSON#9353",
+            "JSON#26626",
+            "JSON#26145",
+            "JSON#28455",
+            "JSON#28506",
+            "JSON#28575"
+        ]
+    },
+    {
+        "resource_class": "entity",
+        "resource_id": "ENTITY#93",
+        "claims": [
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#6",
+                "target_attribute_name": "battery_type",
+                "provenances": [
+                    "PROVENANCE#240245"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#17",
+                "target_attribute_name": "external_memory_type",
+                "provenances": [
+                    "PROVENANCE#240261"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#25",
+                "target_attribute_name": "iso_sensitivity_max",
+                "provenances": [
+                    "PROVENANCE#240252"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#27",
+                "target_attribute_name": "iso_sensitivity_range",
+                "provenances": [
+                    "PROVENANCE#240252"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#26",
+                "target_attribute_name": "iso_sensitivity_min",
+                "provenances": [
+                    "PROVENANCE#240252"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#23",
+                "target_attribute_name": "image_resolution",
+                "provenances": [
+                    "PROVENANCE#248959",
+                    "PROVENANCE#240247",
+                    "PROVENANCE#240255",
+                    "PROVENANCE#240262",
+                    "PROVENANCE#263330",
+                    "PROVENANCE#366859"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#47",
+                "target_attribute_name": "video_resolution",
+                "provenances": [
+                    "PROVENANCE#240255"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#53",
+                "target_attribute_name": "zoom_optical",
+                "provenances": [
+                    "PROVENANCE#248962",
+                    "PROVENANCE#240258",
+                    "PROVENANCE#263333",
+                    "PROVENANCE#366862"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#33",
+                "target_attribute_name": "screen_size",
+                "provenances": [
+                    "PROVENANCE#248963",
+                    "PROVENANCE#240253",
+                    "PROVENANCE#263334",
+                    "PROVENANCE#366863"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#36",
+                "target_attribute_name": "sensor_size",
+                "provenances": [
+                    "PROVENANCE#240259"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#37",
+                "target_attribute_name": "sensor_type",
+                "provenances": [
+                    "PROVENANCE#240260"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#9",
+                "target_attribute_name": "camera_dimension",
+                "provenances": [
+                    "PROVENANCE#240246"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#12",
+                "target_attribute_name": "camera_width",
+                "provenances": [
+                    "PROVENANCE#240246"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#10",
+                "target_attribute_name": "camera_height",
+                "provenances": [
+                    "PROVENANCE#240246"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#8",
+                "target_attribute_name": "camera_depth",
+                "provenances": [
+                    "PROVENANCE#240246"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#7",
+                "target_attribute_name": "brand",
+                "provenances": [
+                    "PROVENANCE#248957",
+                    "PROVENANCE#263328",
+                    "PROVENANCE#366858"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#42",
+                "target_attribute_name": "supported_aspect_ratio",
+                "provenances": [
+                    "PROVENANCE#240244"
+                ]
+            }
+        ],
+        "instances": [
+            "JSON#11975",
+            "JSON#11135",
+            "JSON#13357",
+            "JSON#23522",
+            "JSON#28042",
+            "JSON#597"
+        ]
+    },
+    {
+        "resource_class": "entity",
+        "resource_id": "ENTITY#31",
+        "claims": [
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#2",
+                "target_attribute_name": "auto_focus_mode",
+                "provenances": [
+                    "PROVENANCE#1883",
+                    "PROVENANCE#1905"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#7",
+                "target_attribute_name": "brand",
+                "provenances": [
+                    "PROVENANCE#335638",
+                    "PROVENANCE#1884"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#17",
+                "target_attribute_name": "external_memory_type",
+                "provenances": [
+                    "PROVENANCE#1887"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#23",
+                "target_attribute_name": "image_resolution",
+                "provenances": [
+                    "PROVENANCE#335640",
+                    "PROVENANCE#1891",
+                    "PROVENANCE#1938"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#15",
+                "target_attribute_name": "exposure_compensation",
+                "provenances": [
+                    "PROVENANCE#1892"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#16",
+                "target_attribute_name": "exposure_mode",
+                "provenances": [
+                    "PROVENANCE#1895"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#38",
+                "target_attribute_name": "shutter_speed_max",
+                "provenances": [
+                    "PROVENANCE#1896"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#40",
+                "target_attribute_name": "shutter_speed_range",
+                "provenances": [
+                    "PROVENANCE#1896",
+                    "PROVENANCE#1934"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#22",
+                "target_attribute_name": "image_format",
+                "provenances": [
+                    "PROVENANCE#1897"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#46",
+                "target_attribute_name": "video_format",
+                "provenances": [
+                    "PROVENANCE#1916"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#18",
+                "target_attribute_name": "file_system",
+                "provenances": [
+                    "PROVENANCE#1898"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#36",
+                "target_attribute_name": "sensor_size",
+                "provenances": [
+                    "PROVENANCE#1909",
+                    "PROVENANCE#1929"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#37",
+                "target_attribute_name": "sensor_type",
+                "provenances": [
+                    "PROVENANCE#1910"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#29",
+                "target_attribute_name": "microphone_type",
+                "provenances": [
+                    "PROVENANCE#1914"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#43",
+                "target_attribute_name": "supported_audio_formats",
+                "provenances": [
+                    "PROVENANCE#1915"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#31",
+                "target_attribute_name": "picture_styles",
+                "provenances": [
+                    "PROVENANCE#1923"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#35",
+                "target_attribute_name": "self_timer",
+                "provenances": [
+                    "PROVENANCE#1928"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#41",
+                "target_attribute_name": "shutter_type",
+                "provenances": [
+                    "PROVENANCE#1933"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#39",
+                "target_attribute_name": "shutter_speed_min",
+                "provenances": [
+                    "PROVENANCE#1934"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#44",
+                "target_attribute_name": "supported_languages",
+                "provenances": [
+                    "PROVENANCE#1936"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#53",
+                "target_attribute_name": "zoom_optical",
+                "provenances": [
+                    "PROVENANCE#335643"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#33",
+                "target_attribute_name": "screen_size",
+                "provenances": [
+                    "PROVENANCE#335644"
+                ]
+            }
+        ],
+        "instances": [
+            "JSON#20466",
+            "JSON#76"
+        ]
+    },
+    {
+        "resource_class": "entity",
+        "resource_id": "ENTITY#25",
+        "claims": [
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#7",
+                "target_attribute_name": "brand",
+                "provenances": [
+                    "PROVENANCE#188326",
+                    "PROVENANCE#188354",
+                    "PROVENANCE#429941"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#23",
+                "target_attribute_name": "image_resolution",
+                "provenances": [
+                    "PROVENANCE#188327",
+                    "PROVENANCE#188345",
+                    "PROVENANCE#188358"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#11",
+                "target_attribute_name": "camera_type",
+                "provenances": [
+                    "PROVENANCE#188328",
+                    "PROVENANCE#429937"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#13",
+                "target_attribute_name": "color",
+                "provenances": [
+                    "PROVENANCE#188330"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#52",
+                "target_attribute_name": "zoom_digital",
+                "provenances": [
+                    "PROVENANCE#188334"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#34",
+                "target_attribute_name": "screen_type",
+                "provenances": [
+                    "PROVENANCE#188335"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#21",
+                "target_attribute_name": "focal_length_range",
+                "provenances": [
+                    "PROVENANCE#188341"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#20",
+                "target_attribute_name": "focal_length_min",
+                "provenances": [
+                    "PROVENANCE#188341"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#19",
+                "target_attribute_name": "focal_length_max",
+                "provenances": [
+                    "PROVENANCE#188341"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#2",
+                "target_attribute_name": "auto_focus_mode",
+                "provenances": [
+                    "PROVENANCE#188342"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#37",
+                "target_attribute_name": "sensor_type",
+                "provenances": [
+                    "PROVENANCE#188346"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#33",
+                "target_attribute_name": "screen_size",
+                "provenances": [
+                    "PROVENANCE#188353"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#17",
+                "target_attribute_name": "external_memory_type",
+                "provenances": [
+                    "PROVENANCE#188355"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#35",
+                "target_attribute_name": "self_timer",
+                "provenances": [
+                    "PROVENANCE#188359"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#40",
+                "target_attribute_name": "shutter_speed_range",
+                "provenances": [
+                    "PROVENANCE#188360"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#39",
+                "target_attribute_name": "shutter_speed_min",
+                "provenances": [
+                    "PROVENANCE#188360"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#38",
+                "target_attribute_name": "shutter_speed_max",
+                "provenances": [
+                    "PROVENANCE#188360"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#49",
+                "target_attribute_name": "white_balance",
+                "provenances": [
+                    "PROVENANCE#188367"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#12",
+                "target_attribute_name": "camera_width",
+                "provenances": [
+                    "PROVENANCE#188368",
+                    "PROVENANCE#429938"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#9",
+                "target_attribute_name": "camera_dimension",
+                "provenances": [
+                    "PROVENANCE#188368",
+                    "PROVENANCE#429938"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#10",
+                "target_attribute_name": "camera_height",
+                "provenances": [
+                    "PROVENANCE#429938"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#8",
+                "target_attribute_name": "camera_depth",
+                "provenances": [
+                    "PROVENANCE#429938"
+                ]
+            }
+        ],
+        "instances": [
+            "JSON#8784",
+            "JSON#26936"
+        ]
+    },
+    {
+        "resource_class": "entity",
+        "resource_id": "ENTITY#62",
+        "claims": [
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#7",
+                "target_attribute_name": "brand",
+                "provenances": [
+                    "PROVENANCE#337211",
+                    "PROVENANCE#432140",
+                    "PROVENANCE#423209",
+                    "PROVENANCE#423238"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#23",
+                "target_attribute_name": "image_resolution",
+                "provenances": [
+                    "PROVENANCE#337228",
+                    "PROVENANCE#423225",
+                    "PROVENANCE#423242"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#33",
+                "target_attribute_name": "screen_size",
+                "provenances": [
+                    "PROVENANCE#337239",
+                    "PROVENANCE#423244"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#37",
+                "target_attribute_name": "sensor_type",
+                "provenances": [
+                    "PROVENANCE#337240",
+                    "PROVENANCE#423248"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#36",
+                "target_attribute_name": "sensor_size",
+                "provenances": [
+                    "PROVENANCE#337240",
+                    "PROVENANCE#423247"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#15",
+                "target_attribute_name": "exposure_compensation",
+                "provenances": [
+                    "PROVENANCE#337214",
+                    "PROVENANCE#423216"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#11",
+                "target_attribute_name": "camera_type",
+                "provenances": [
+                    "PROVENANCE#432136"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#27",
+                "target_attribute_name": "iso_sensitivity_range",
+                "provenances": [
+                    "PROVENANCE#423228"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#26",
+                "target_attribute_name": "iso_sensitivity_min",
+                "provenances": [
+                    "PROVENANCE#423228"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#25",
+                "target_attribute_name": "iso_sensitivity_max",
+                "provenances": [
+                    "PROVENANCE#423228"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#40",
+                "target_attribute_name": "shutter_speed_range",
+                "provenances": [
+                    "PROVENANCE#423231",
+                    "PROVENANCE#423235"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#39",
+                "target_attribute_name": "shutter_speed_min",
+                "provenances": [
+                    "PROVENANCE#423235"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#38",
+                "target_attribute_name": "shutter_speed_max",
+                "provenances": [
+                    "PROVENANCE#423231"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#22",
+                "target_attribute_name": "image_format",
+                "provenances": [
+                    "PROVENANCE#423222"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#2",
+                "target_attribute_name": "auto_focus_mode",
+                "provenances": [
+                    "PROVENANCE#423206"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#46",
+                "target_attribute_name": "video_format",
+                "provenances": [
+                    "PROVENANCE#423213"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#42",
+                "target_attribute_name": "supported_aspect_ratio",
+                "provenances": [
+                    "PROVENANCE#423224"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#28",
+                "target_attribute_name": "lens_mount_type",
+                "provenances": [
+                    "PROVENANCE#423227"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#29",
+                "target_attribute_name": "microphone_type",
+                "provenances": [
+                    "PROVENANCE#423234"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#3",
+                "target_attribute_name": "auto_focus_points",
+                "provenances": [
+                    "PROVENANCE#423236"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#34",
+                "target_attribute_name": "screen_type",
+                "provenances": [
+                    "PROVENANCE#423245"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#35",
+                "target_attribute_name": "self_timer",
+                "provenances": [
+                    "PROVENANCE#423246"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#47",
+                "target_attribute_name": "video_resolution",
+                "provenances": [
+                    "PROVENANCE#423251"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#49",
+                "target_attribute_name": "white_balance",
+                "provenances": [
+                    "PROVENANCE#423253"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#4",
+                "target_attribute_name": "battery_chemistry",
+                "provenances": [
+                    "PROVENANCE#423207"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#21",
+                "target_attribute_name": "focal_length_range",
+                "provenances": [
+                    "PROVENANCE#423219"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#20",
+                "target_attribute_name": "focal_length_min",
+                "provenances": [
+                    "PROVENANCE#423219"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#19",
+                "target_attribute_name": "focal_length_max",
+                "provenances": [
+                    "PROVENANCE#423219"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#17",
+                "target_attribute_name": "external_memory_type",
+                "provenances": [
+                    "PROVENANCE#423232"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#32",
+                "target_attribute_name": "red_eye_reduction",
+                "provenances": [
+                    "PROVENANCE#423241"
+                ]
+            }
+        ],
+        "instances": [
+            "JSON#20625",
+            "JSON#27155",
+            "JSON#26753"
+        ]
+    },
+    {
+        "resource_class": "entity",
+        "resource_id": "ENTITY#70",
+        "claims": [
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#53",
+                "target_attribute_name": "zoom_optical",
+                "provenances": [
+                    "PROVENANCE#224450",
+                    "PROVENANCE#401912"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#4",
+                "target_attribute_name": "battery_chemistry",
+                "provenances": [
+                    "PROVENANCE#401890"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#7",
+                "target_attribute_name": "brand",
+                "provenances": [
+                    "PROVENANCE#401891",
+                    "PROVENANCE#401913"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#33",
+                "target_attribute_name": "screen_size",
+                "provenances": [
+                    "PROVENANCE#401918"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#17",
+                "target_attribute_name": "external_memory_type",
+                "provenances": [
+                    "PROVENANCE#401908"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#23",
+                "target_attribute_name": "image_resolution",
+                "provenances": [
+                    "PROVENANCE#224437",
+                    "PROVENANCE#401916"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#2",
+                "target_attribute_name": "auto_focus_mode",
+                "provenances": [
+                    "PROVENANCE#224436",
+                    "PROVENANCE#401889"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#14",
+                "target_attribute_name": "color_filter",
+                "provenances": [
+                    "PROVENANCE#224438"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#52",
+                "target_attribute_name": "zoom_digital",
+                "provenances": [
+                    "PROVENANCE#224441",
+                    "PROVENANCE#401895"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#9",
+                "target_attribute_name": "camera_dimension",
+                "provenances": [
+                    "PROVENANCE#224442"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#12",
+                "target_attribute_name": "camera_width",
+                "provenances": [
+                    "PROVENANCE#224442"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#10",
+                "target_attribute_name": "camera_height",
+                "provenances": [
+                    "PROVENANCE#224442"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#8",
+                "target_attribute_name": "camera_depth",
+                "provenances": [
+                    "PROVENANCE#224442"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#21",
+                "target_attribute_name": "focal_length_range",
+                "provenances": [
+                    "PROVENANCE#224443",
+                    "PROVENANCE#401900"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#20",
+                "target_attribute_name": "focal_length_min",
+                "provenances": [
+                    "PROVENANCE#224443",
+                    "PROVENANCE#401900"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#19",
+                "target_attribute_name": "focal_length_max",
+                "provenances": [
+                    "PROVENANCE#224443",
+                    "PROVENANCE#401900"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#22",
+                "target_attribute_name": "image_format",
+                "provenances": [
+                    "PROVENANCE#224444",
+                    "PROVENANCE#401901"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#26",
+                "target_attribute_name": "iso_sensitivity_min",
+                "provenances": [
+                    "PROVENANCE#224445",
+                    "PROVENANCE#401905"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#25",
+                "target_attribute_name": "iso_sensitivity_max",
+                "provenances": [
+                    "PROVENANCE#224445",
+                    "PROVENANCE#401905"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#27",
+                "target_attribute_name": "iso_sensitivity_range",
+                "provenances": [
+                    "PROVENANCE#224445",
+                    "PROVENANCE#401905"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#38",
+                "target_attribute_name": "shutter_speed_max",
+                "provenances": [
+                    "PROVENANCE#224447",
+                    "PROVENANCE#401907"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#40",
+                "target_attribute_name": "shutter_speed_range",
+                "provenances": [
+                    "PROVENANCE#224447",
+                    "PROVENANCE#224448",
+                    "PROVENANCE#401907",
+                    "PROVENANCE#401911"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#39",
+                "target_attribute_name": "shutter_speed_min",
+                "provenances": [
+                    "PROVENANCE#224448",
+                    "PROVENANCE#401911"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#30",
+                "target_attribute_name": "picture_angle",
+                "provenances": [
+                    "PROVENANCE#224451"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#32",
+                "target_attribute_name": "red_eye_reduction",
+                "provenances": [
+                    "PROVENANCE#224452"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#35",
+                "target_attribute_name": "self_timer",
+                "provenances": [
+                    "PROVENANCE#224453",
+                    "PROVENANCE#401920"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#45",
+                "target_attribute_name": "supported_languages_number",
+                "provenances": [
+                    "PROVENANCE#224455"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#47",
+                "target_attribute_name": "video_resolution",
+                "provenances": [
+                    "PROVENANCE#224457",
+                    "PROVENANCE#401924"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#49",
+                "target_attribute_name": "white_balance",
+                "provenances": [
+                    "PROVENANCE#224459",
+                    "PROVENANCE#401926"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#46",
+                "target_attribute_name": "video_format",
+                "provenances": [
+                    "PROVENANCE#401894"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#15",
+                "target_attribute_name": "exposure_compensation",
+                "provenances": [
+                    "PROVENANCE#401897"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#24",
+                "target_attribute_name": "internal_memory_capacity",
+                "provenances": [
+                    "PROVENANCE#401904"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#29",
+                "target_attribute_name": "microphone_type",
+                "provenances": [
+                    "PROVENANCE#401910"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#34",
+                "target_attribute_name": "screen_type",
+                "provenances": [
+                    "PROVENANCE#401919"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#36",
+                "target_attribute_name": "sensor_size",
+                "provenances": [
+                    "PROVENANCE#401921"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#37",
+                "target_attribute_name": "sensor_type",
+                "provenances": [
+                    "PROVENANCE#401922"
+                ]
+            }
+        ],
+        "instances": [
+            "JSON#10340",
+            "JSON#26345"
+        ]
+    },
+    {
+        "resource_class": "entity",
+        "resource_id": "ENTITY#42",
+        "claims": [
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#7",
+                "target_attribute_name": "brand",
+                "provenances": [
+                    "PROVENANCE#291204",
+                    "PROVENANCE#10458",
+                    "PROVENANCE#442928",
+                    "PROVENANCE#442928"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#23",
+                "target_attribute_name": "image_resolution",
+                "provenances": [
+                    "PROVENANCE#291207",
+                    "PROVENANCE#442929"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#53",
+                "target_attribute_name": "zoom_optical",
+                "provenances": [
+                    "PROVENANCE#291208",
+                    "PROVENANCE#442938",
+                    "PROVENANCE#442939"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#6",
+                "target_attribute_name": "battery_type",
+                "provenances": [
+                    "PROVENANCE#10456"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#21",
+                "target_attribute_name": "focal_length_range",
+                "provenances": [
+                    "PROVENANCE#10462"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#20",
+                "target_attribute_name": "focal_length_min",
+                "provenances": [
+                    "PROVENANCE#10462"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#19",
+                "target_attribute_name": "focal_length_max",
+                "provenances": [
+                    "PROVENANCE#10462"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#27",
+                "target_attribute_name": "iso_sensitivity_range",
+                "provenances": [
+                    "PROVENANCE#10464"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#25",
+                "target_attribute_name": "iso_sensitivity_max",
+                "provenances": [
+                    "PROVENANCE#10464"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#33",
+                "target_attribute_name": "screen_size",
+                "provenances": [
+                    "PROVENANCE#442934"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#38",
+                "target_attribute_name": "shutter_speed_max",
+                "provenances": [
+                    "PROVENANCE#10474"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#40",
+                "target_attribute_name": "shutter_speed_range",
+                "provenances": [
+                    "PROVENANCE#10466",
+                    "PROVENANCE#10474"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#39",
+                "target_attribute_name": "shutter_speed_min",
+                "provenances": [
+                    "PROVENANCE#10466"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#49",
+                "target_attribute_name": "white_balance",
+                "provenances": [
+                    "PROVENANCE#10476"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#13",
+                "target_attribute_name": "color",
+                "provenances": [
+                    "PROVENANCE#442930"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#16",
+                "target_attribute_name": "exposure_mode",
+                "provenances": [
+                    "PROVENANCE#10461"
+                ]
+            }
+        ],
+        "instances": [
+            "JSON#16030",
+            "JSON#297",
+            "JSON#11361",
+            "JSON#28198"
+        ]
+    },
+    {
+        "resource_class": "entity",
+        "resource_id": "ENTITY#82",
+        "claims": [
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#1",
+                "target_attribute_name": "auto_focus_beam",
+                "provenances": [
+                    "PROVENANCE#396718"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#2",
+                "target_attribute_name": "auto_focus_mode",
+                "provenances": [
+                    "PROVENANCE#396720"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#4",
+                "target_attribute_name": "battery_chemistry",
+                "provenances": [
+                    "PROVENANCE#396721"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#7",
+                "target_attribute_name": "brand",
+                "provenances": [
+                    "PROVENANCE#396723",
+                    "PROVENANCE#396752",
+                    "PROVENANCE#430999",
+                    "PROVENANCE#436527"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#8",
+                "target_attribute_name": "camera_depth",
+                "provenances": [
+                    "PROVENANCE#396727"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#9",
+                "target_attribute_name": "camera_dimension",
+                "provenances": [
+                    "PROVENANCE#396727",
+                    "PROVENANCE#396739",
+                    "PROVENANCE#396773"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#46",
+                "target_attribute_name": "video_format",
+                "provenances": [
+                    "PROVENANCE#396728"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#52",
+                "target_attribute_name": "zoom_digital",
+                "provenances": [
+                    "PROVENANCE#396729"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#15",
+                "target_attribute_name": "exposure_compensation",
+                "provenances": [
+                    "PROVENANCE#396732"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#16",
+                "target_attribute_name": "exposure_mode",
+                "provenances": [
+                    "PROVENANCE#396733"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#21",
+                "target_attribute_name": "focal_length_range",
+                "provenances": [
+                    "PROVENANCE#396737",
+                    "PROVENANCE#396738"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#20",
+                "target_attribute_name": "focal_length_min",
+                "provenances": [
+                    "PROVENANCE#396737",
+                    "PROVENANCE#396738"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#19",
+                "target_attribute_name": "focal_length_max",
+                "provenances": [
+                    "PROVENANCE#396737",
+                    "PROVENANCE#396738"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#10",
+                "target_attribute_name": "camera_height",
+                "provenances": [
+                    "PROVENANCE#396739"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#22",
+                "target_attribute_name": "image_format",
+                "provenances": [
+                    "PROVENANCE#396740"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#23",
+                "target_attribute_name": "image_resolution",
+                "provenances": [
+                    "PROVENANCE#396741",
+                    "PROVENANCE#396756"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#24",
+                "target_attribute_name": "internal_memory_capacity",
+                "provenances": [
+                    "PROVENANCE#396744"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#27",
+                "target_attribute_name": "iso_sensitivity_range",
+                "provenances": [
+                    "PROVENANCE#396745"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#26",
+                "target_attribute_name": "iso_sensitivity_min",
+                "provenances": [
+                    "PROVENANCE#396745"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#25",
+                "target_attribute_name": "iso_sensitivity_max",
+                "provenances": [
+                    "PROVENANCE#396745"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#38",
+                "target_attribute_name": "shutter_speed_max",
+                "provenances": [
+                    "PROVENANCE#396747"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#40",
+                "target_attribute_name": "shutter_speed_range",
+                "provenances": [
+                    "PROVENANCE#396747",
+                    "PROVENANCE#396750"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#17",
+                "target_attribute_name": "external_memory_type",
+                "provenances": [
+                    "PROVENANCE#396748"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#39",
+                "target_attribute_name": "shutter_speed_min",
+                "provenances": [
+                    "PROVENANCE#396750"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#53",
+                "target_attribute_name": "zoom_optical",
+                "provenances": [
+                    "PROVENANCE#396751"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#32",
+                "target_attribute_name": "red_eye_reduction",
+                "provenances": [
+                    "PROVENANCE#396755"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#33",
+                "target_attribute_name": "screen_size",
+                "provenances": [
+                    "PROVENANCE#396758"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#34",
+                "target_attribute_name": "screen_type",
+                "provenances": [
+                    "PROVENANCE#396759"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#35",
+                "target_attribute_name": "self_timer",
+                "provenances": [
+                    "PROVENANCE#396760"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#36",
+                "target_attribute_name": "sensor_size",
+                "provenances": [
+                    "PROVENANCE#396761"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#37",
+                "target_attribute_name": "sensor_type",
+                "provenances": [
+                    "PROVENANCE#396762"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#31",
+                "target_attribute_name": "picture_styles",
+                "provenances": [
+                    "PROVENANCE#396763"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#47",
+                "target_attribute_name": "video_resolution",
+                "provenances": [
+                    "PROVENANCE#396767"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#49",
+                "target_attribute_name": "white_balance",
+                "provenances": [
+                    "PROVENANCE#396771",
+                    "PROVENANCE#396772"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#12",
+                "target_attribute_name": "camera_width",
+                "provenances": [
+                    "PROVENANCE#396773"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#11",
+                "target_attribute_name": "camera_type",
+                "provenances": [
+                    "PROVENANCE#430995"
+                ]
+            }
+        ],
+        "instances": [
+            "JSON#26244",
+            "JSON#27038",
+            "JSON#27636"
+        ]
+    },
+    {
+        "resource_class": "entity",
+        "resource_id": "ENTITY#89",
+        "claims": [
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#17",
+                "target_attribute_name": "external_memory_type",
+                "provenances": [
+                    "PROVENANCE#399528"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#22",
+                "target_attribute_name": "image_format",
+                "provenances": [
+                    "PROVENANCE#399519"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#46",
+                "target_attribute_name": "video_format",
+                "provenances": [
+                    "PROVENANCE#399512"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#19",
+                "target_attribute_name": "focal_length_max",
+                "provenances": [
+                    "PROVENANCE#399516"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#21",
+                "target_attribute_name": "focal_length_range",
+                "provenances": [
+                    "PROVENANCE#399516"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#20",
+                "target_attribute_name": "focal_length_min",
+                "provenances": [
+                    "PROVENANCE#399516"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#25",
+                "target_attribute_name": "iso_sensitivity_max",
+                "provenances": [
+                    "PROVENANCE#399525"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#27",
+                "target_attribute_name": "iso_sensitivity_range",
+                "provenances": [
+                    "PROVENANCE#399525"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#26",
+                "target_attribute_name": "iso_sensitivity_min",
+                "provenances": [
+                    "PROVENANCE#399525"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#23",
+                "target_attribute_name": "image_resolution",
+                "provenances": [
+                    "PROVENANCE#286851",
+                    "PROVENANCE#207093",
+                    "PROVENANCE#324676",
+                    "PROVENANCE#399522",
+                    "PROVENANCE#399538"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#53",
+                "target_attribute_name": "zoom_optical",
+                "provenances": [
+                    "PROVENANCE#286853",
+                    "PROVENANCE#207097",
+                    "PROVENANCE#324678",
+                    "PROVENANCE#399532"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#33",
+                "target_attribute_name": "screen_size",
+                "provenances": [
+                    "PROVENANCE#207089",
+                    "PROVENANCE#399539"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#36",
+                "target_attribute_name": "sensor_size",
+                "provenances": [
+                    "PROVENANCE#399541"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#37",
+                "target_attribute_name": "sensor_type",
+                "provenances": [
+                    "PROVENANCE#207095",
+                    "PROVENANCE#399542"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#38",
+                "target_attribute_name": "shutter_speed_max",
+                "provenances": [
+                    "PROVENANCE#399527"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#40",
+                "target_attribute_name": "shutter_speed_range",
+                "provenances": [
+                    "PROVENANCE#399527",
+                    "PROVENANCE#399531"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#39",
+                "target_attribute_name": "shutter_speed_min",
+                "provenances": [
+                    "PROVENANCE#399531"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#9",
+                "target_attribute_name": "camera_dimension",
+                "provenances": [
+                    "PROVENANCE#399511",
+                    "PROVENANCE#399518",
+                    "PROVENANCE#399548"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#12",
+                "target_attribute_name": "camera_width",
+                "provenances": [
+                    "PROVENANCE#399548"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#10",
+                "target_attribute_name": "camera_height",
+                "provenances": [
+                    "PROVENANCE#399518"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#8",
+                "target_attribute_name": "camera_depth",
+                "provenances": [
+                    "PROVENANCE#399511"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#7",
+                "target_attribute_name": "brand",
+                "provenances": [
+                    "PROVENANCE#286849",
+                    "PROVENANCE#324674",
+                    "PROVENANCE#399508",
+                    "PROVENANCE#399534"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#2",
+                "target_attribute_name": "auto_focus_mode",
+                "provenances": [
+                    "PROVENANCE#399505"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#4",
+                "target_attribute_name": "battery_chemistry",
+                "provenances": [
+                    "PROVENANCE#399506"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#29",
+                "target_attribute_name": "microphone_type",
+                "provenances": [
+                    "PROVENANCE#399530"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#35",
+                "target_attribute_name": "self_timer",
+                "provenances": [
+                    "PROVENANCE#399540"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#49",
+                "target_attribute_name": "white_balance",
+                "provenances": [
+                    "PROVENANCE#399547"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#15",
+                "target_attribute_name": "exposure_compensation",
+                "provenances": [
+                    "PROVENANCE#399514"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#42",
+                "target_attribute_name": "supported_aspect_ratio",
+                "provenances": [
+                    "PROVENANCE#399521"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#16",
+                "target_attribute_name": "exposure_mode",
+                "provenances": [
+                    "PROVENANCE#399515"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#1",
+                "target_attribute_name": "auto_focus_beam",
+                "provenances": [
+                    "PROVENANCE#399503"
+                ]
+            }
+        ],
+        "instances": [
+            "JSON#15620",
+            "JSON#9218",
+            "JSON#19344",
+            "JSON#26299",
+            "JSON#10581",
+            "JSON#28028",
+            "JSON#28393",
+            "JSON#28714"
+        ]
+    },
+    {
+        "resource_class": "entity",
+        "resource_id": "ENTITY#27",
+        "claims": [
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#23",
+                "target_attribute_name": "image_resolution",
+                "provenances": [
+                    "PROVENANCE#403847",
+                    "PROVENANCE#403862",
+                    "PROVENANCE#207669"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#52",
+                "target_attribute_name": "zoom_digital",
+                "provenances": [
+                    "PROVENANCE#403834",
+                    "PROVENANCE#207675"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#33",
+                "target_attribute_name": "screen_size",
+                "provenances": [
+                    "PROVENANCE#403864",
+                    "PROVENANCE#207662"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#17",
+                "target_attribute_name": "external_memory_type",
+                "provenances": [
+                    "PROVENANCE#403853"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#53",
+                "target_attribute_name": "zoom_optical",
+                "provenances": [
+                    "PROVENANCE#403857",
+                    "PROVENANCE#207675"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#37",
+                "target_attribute_name": "sensor_type",
+                "provenances": [
+                    "PROVENANCE#403868",
+                    "PROVENANCE#207672"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#4",
+                "target_attribute_name": "battery_chemistry",
+                "provenances": [
+                    "PROVENANCE#403826"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#7",
+                "target_attribute_name": "brand",
+                "provenances": [
+                    "PROVENANCE#403828",
+                    "PROVENANCE#403858"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#8",
+                "target_attribute_name": "camera_depth",
+                "provenances": [
+                    "PROVENANCE#403832"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#9",
+                "target_attribute_name": "camera_dimension",
+                "provenances": [
+                    "PROVENANCE#403832",
+                    "PROVENANCE#403844",
+                    "PROVENANCE#403876"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#46",
+                "target_attribute_name": "video_format",
+                "provenances": [
+                    "PROVENANCE#403833"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#15",
+                "target_attribute_name": "exposure_compensation",
+                "provenances": [
+                    "PROVENANCE#403837"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#16",
+                "target_attribute_name": "exposure_mode",
+                "provenances": [
+                    "PROVENANCE#403838"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#21",
+                "target_attribute_name": "focal_length_range",
+                "provenances": [
+                    "PROVENANCE#403842",
+                    "PROVENANCE#403843"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#20",
+                "target_attribute_name": "focal_length_min",
+                "provenances": [
+                    "PROVENANCE#403842",
+                    "PROVENANCE#403843"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#19",
+                "target_attribute_name": "focal_length_max",
+                "provenances": [
+                    "PROVENANCE#403842",
+                    "PROVENANCE#403843"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#10",
+                "target_attribute_name": "camera_height",
+                "provenances": [
+                    "PROVENANCE#403844"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#22",
+                "target_attribute_name": "image_format",
+                "provenances": [
+                    "PROVENANCE#403845"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#27",
+                "target_attribute_name": "iso_sensitivity_range",
+                "provenances": [
+                    "PROVENANCE#403850"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#26",
+                "target_attribute_name": "iso_sensitivity_min",
+                "provenances": [
+                    "PROVENANCE#403850"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#25",
+                "target_attribute_name": "iso_sensitivity_max",
+                "provenances": [
+                    "PROVENANCE#403850"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#38",
+                "target_attribute_name": "shutter_speed_max",
+                "provenances": [
+                    "PROVENANCE#403852",
+                    "PROVENANCE#207674"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#40",
+                "target_attribute_name": "shutter_speed_range",
+                "provenances": [
+                    "PROVENANCE#403852",
+                    "PROVENANCE#403856",
+                    "PROVENANCE#207674"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#29",
+                "target_attribute_name": "microphone_type",
+                "provenances": [
+                    "PROVENANCE#403855"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#39",
+                "target_attribute_name": "shutter_speed_min",
+                "provenances": [
+                    "PROVENANCE#403856",
+                    "PROVENANCE#207674"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#32",
+                "target_attribute_name": "red_eye_reduction",
+                "provenances": [
+                    "PROVENANCE#403861"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#34",
+                "target_attribute_name": "screen_type",
+                "provenances": [
+                    "PROVENANCE#403865"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#35",
+                "target_attribute_name": "self_timer",
+                "provenances": [
+                    "PROVENANCE#403866"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#36",
+                "target_attribute_name": "sensor_size",
+                "provenances": [
+                    "PROVENANCE#403867",
+                    "PROVENANCE#207672"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#31",
+                "target_attribute_name": "picture_styles",
+                "provenances": [
+                    "PROVENANCE#403869"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#47",
+                "target_attribute_name": "video_resolution",
+                "provenances": [
+                    "PROVENANCE#403873"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#49",
+                "target_attribute_name": "white_balance",
+                "provenances": [
+                    "PROVENANCE#403874",
+                    "PROVENANCE#403875"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#12",
+                "target_attribute_name": "camera_width",
+                "provenances": [
+                    "PROVENANCE#403876"
+                ]
+            }
+        ],
+        "instances": [
+            "JSON#26384",
+            "JSON#9248"
+        ]
+    },
+    {
+        "resource_class": "entity",
+        "resource_id": "ENTITY#58",
+        "claims": [
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#7",
+                "target_attribute_name": "brand",
+                "provenances": [
+                    "PROVENANCE#383023",
+                    "PROVENANCE#278187"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#23",
+                "target_attribute_name": "image_resolution",
+                "provenances": [
+                    "PROVENANCE#383024"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#53",
+                "target_attribute_name": "zoom_optical",
+                "provenances": [
+                    "PROVENANCE#383027"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#33",
+                "target_attribute_name": "screen_size",
+                "provenances": [
+                    "PROVENANCE#383028"
+                ]
+            }
+        ],
+        "instances": [
+            "JSON#25080",
+            "JSON#14804"
+        ]
+    },
+    {
+        "resource_class": "entity",
+        "resource_id": "ENTITY#44",
+        "claims": [
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#7",
+                "target_attribute_name": "brand",
+                "provenances": [
+                    "PROVENANCE#301153",
+                    "PROVENANCE#348012"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#23",
+                "target_attribute_name": "image_resolution",
+                "provenances": [
+                    "PROVENANCE#393313",
+                    "PROVENANCE#301156",
+                    "PROVENANCE#348015"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#53",
+                "target_attribute_name": "zoom_optical",
+                "provenances": [
+                    "PROVENANCE#348018"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#33",
+                "target_attribute_name": "screen_size",
+                "provenances": [
+                    "PROVENANCE#393310",
+                    "PROVENANCE#348019",
+                    "PROVENANCE#390852"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#27",
+                "target_attribute_name": "iso_sensitivity_range",
+                "provenances": [
+                    "PROVENANCE#390850"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#26",
+                "target_attribute_name": "iso_sensitivity_min",
+                "provenances": [
+                    "PROVENANCE#390850"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#25",
+                "target_attribute_name": "iso_sensitivity_max",
+                "provenances": [
+                    "PROVENANCE#390850"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#22",
+                "target_attribute_name": "image_format",
+                "provenances": [
+                    "PROVENANCE#390848"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#43",
+                "target_attribute_name": "supported_audio_formats",
+                "provenances": [
+                    "PROVENANCE#390833"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#2",
+                "target_attribute_name": "auto_focus_mode",
+                "provenances": [
+                    "PROVENANCE#390834"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#47",
+                "target_attribute_name": "video_resolution",
+                "provenances": [
+                    "PROVENANCE#393314",
+                    "PROVENANCE#390860"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#32",
+                "target_attribute_name": "red_eye_reduction",
+                "provenances": [
+                    "PROVENANCE#390856"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#35",
+                "target_attribute_name": "self_timer",
+                "provenances": [
+                    "PROVENANCE#390857"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#45",
+                "target_attribute_name": "supported_languages_number",
+                "provenances": [
+                    "PROVENANCE#390858"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#49",
+                "target_attribute_name": "white_balance",
+                "provenances": [
+                    "PROVENANCE#390865"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#21",
+                "target_attribute_name": "focal_length_range",
+                "provenances": [
+                    "PROVENANCE#390844"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#20",
+                "target_attribute_name": "focal_length_min",
+                "provenances": [
+                    "PROVENANCE#390844"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#19",
+                "target_attribute_name": "focal_length_max",
+                "provenances": [
+                    "PROVENANCE#390844"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#11",
+                "target_attribute_name": "camera_type",
+                "provenances": [
+                    "PROVENANCE#393308"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#9",
+                "target_attribute_name": "camera_dimension",
+                "provenances": [
+                    "PROVENANCE#393309"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#12",
+                "target_attribute_name": "camera_width",
+                "provenances": [
+                    "PROVENANCE#393309"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#10",
+                "target_attribute_name": "camera_height",
+                "provenances": [
+                    "PROVENANCE#393309"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#8",
+                "target_attribute_name": "camera_depth",
+                "provenances": [
+                    "PROVENANCE#393309"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#34",
+                "target_attribute_name": "screen_type",
+                "provenances": [
+                    "PROVENANCE#390851"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#48",
+                "target_attribute_name": "warranty_duration",
+                "provenances": [
+                    "PROVENANCE#390864"
+                ]
+            }
+        ],
+        "instances": [
+            "JSON#25788",
+            "JSON#16994",
+            "JSON#21724",
+            "JSON#25556",
+            "JSON#10046",
+            "JSON#10063",
+            "JSON#10073",
+            "JSON#10113",
+            "JSON#10842",
+            "JSON#11100",
+            "JSON#25573",
+            "JSON#26367"
+        ]
+    },
+    {
+        "resource_class": "entity",
+        "resource_id": "ENTITY#76",
+        "claims": [
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#23",
+                "target_attribute_name": "image_resolution",
+                "provenances": [
+                    "PROVENANCE#370852",
+                    "PROVENANCE#313463",
+                    "PROVENANCE#248292"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#7",
+                "target_attribute_name": "brand",
+                "provenances": [
+                    "PROVENANCE#370849",
+                    "PROVENANCE#313460",
+                    "PROVENANCE#248289"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#33",
+                "target_attribute_name": "screen_size",
+                "provenances": [
+                    "PROVENANCE#370855",
+                    "PROVENANCE#313466",
+                    "PROVENANCE#248295"
+                ]
+            }
+        ],
+        "instances": [
+            "JSON#23909",
+            "JSON#18236",
+            "JSON#6667",
+            "JSON#11904",
+            "JSON#10114",
+            "JSON#10155",
+            "JSON#470",
+            "JSON#9849"
+        ]
+    },
+    {
+        "resource_class": "entity",
+        "resource_id": "ENTITY#43",
+        "claims": [
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#7",
+                "target_attribute_name": "brand",
+                "provenances": [
+                    "PROVENANCE#294978",
+                    "PROVENANCE#375236"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#23",
+                "target_attribute_name": "image_resolution",
+                "provenances": [
+                    "PROVENANCE#294979",
+                    "PROVENANCE#375241"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#53",
+                "target_attribute_name": "zoom_optical",
+                "provenances": [
+                    "PROVENANCE#294982",
+                    "PROVENANCE#375244"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#33",
+                "target_attribute_name": "screen_size",
+                "provenances": [
+                    "PROVENANCE#294983",
+                    "PROVENANCE#375245"
+                ]
+            }
+        ],
+        "instances": [
+            "JSON#16406",
+            "JSON#24333"
+        ]
+    },
+    {
+        "resource_class": "entity",
+        "resource_id": "ENTITY#41",
+        "claims": [
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#7",
+                "target_attribute_name": "brand",
+                "provenances": [
+                    "PROVENANCE#283716",
+                    "PROVENANCE#376988"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#23",
+                "target_attribute_name": "image_resolution",
+                "provenances": [
+                    "PROVENANCE#283719",
+                    "PROVENANCE#376991"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#33",
+                "target_attribute_name": "screen_size",
+                "provenances": [
+                    "PROVENANCE#283722",
+                    "PROVENANCE#376994"
+                ]
+            }
+        ],
+        "instances": [
+            "JSON#15318",
+            "JSON#24493"
+        ]
+    },
+    {
+        "resource_class": "entity",
+        "resource_id": "ENTITY#26",
+        "claims": [
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#23",
+                "target_attribute_name": "image_resolution",
+                "provenances": [
+                    "PROVENANCE#296471",
+                    "PROVENANCE#271370"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#11",
+                "target_attribute_name": "camera_type",
+                "provenances": [
+                    "PROVENANCE#437984"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#33",
+                "target_attribute_name": "screen_size",
+                "provenances": [
+                    "PROVENANCE#296475",
+                    "PROVENANCE#271374"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#53",
+                "target_attribute_name": "zoom_optical",
+                "provenances": [
+                    "PROVENANCE#296474",
+                    "PROVENANCE#271373"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#7",
+                "target_attribute_name": "brand",
+                "provenances": [
+                    "PROVENANCE#296469",
+                    "PROVENANCE#271369",
+                    "PROVENANCE#437988"
+                ]
+            }
+        ],
+        "instances": [
+            "JSON#16545",
+            "JSON#14141",
+            "JSON#27799"
+        ]
+    },
+    {
+        "resource_class": "entity",
+        "resource_id": "ENTITY#67",
+        "claims": [
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#43",
+                "target_attribute_name": "supported_audio_formats",
+                "provenances": [
+                    "PROVENANCE#204813"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#2",
+                "target_attribute_name": "auto_focus_mode",
+                "provenances": [
+                    "PROVENANCE#4279",
+                    "PROVENANCE#204815"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#23",
+                "target_attribute_name": "image_resolution",
+                "provenances": [
+                    "PROVENANCE#204846"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#14",
+                "target_attribute_name": "color_filter",
+                "provenances": [
+                    "PROVENANCE#204820"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#52",
+                "target_attribute_name": "zoom_digital",
+                "provenances": [
+                    "PROVENANCE#4315",
+                    "PROVENANCE#204823"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#9",
+                "target_attribute_name": "camera_dimension",
+                "provenances": [
+                    "PROVENANCE#4290",
+                    "PROVENANCE#204824"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#12",
+                "target_attribute_name": "camera_width",
+                "provenances": [
+                    "PROVENANCE#4290",
+                    "PROVENANCE#204824"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#10",
+                "target_attribute_name": "camera_height",
+                "provenances": [
+                    "PROVENANCE#4290",
+                    "PROVENANCE#204824"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#8",
+                "target_attribute_name": "camera_depth",
+                "provenances": [
+                    "PROVENANCE#4290",
+                    "PROVENANCE#204824"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#21",
+                "target_attribute_name": "focal_length_range",
+                "provenances": [
+                    "PROVENANCE#4297",
+                    "PROVENANCE#204829"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#20",
+                "target_attribute_name": "focal_length_min",
+                "provenances": [
+                    "PROVENANCE#4297",
+                    "PROVENANCE#204829"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#19",
+                "target_attribute_name": "focal_length_max",
+                "provenances": [
+                    "PROVENANCE#4297",
+                    "PROVENANCE#204829"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#22",
+                "target_attribute_name": "image_format",
+                "provenances": [
+                    "PROVENANCE#4312",
+                    "PROVENANCE#204831"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#26",
+                "target_attribute_name": "iso_sensitivity_min",
+                "provenances": [
+                    "PROVENANCE#4300",
+                    "PROVENANCE#204835"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#25",
+                "target_attribute_name": "iso_sensitivity_max",
+                "provenances": [
+                    "PROVENANCE#4300",
+                    "PROVENANCE#204835"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#27",
+                "target_attribute_name": "iso_sensitivity_range",
+                "provenances": [
+                    "PROVENANCE#4300",
+                    "PROVENANCE#204835"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#38",
+                "target_attribute_name": "shutter_speed_max",
+                "provenances": [
+                    "PROVENANCE#204839"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#40",
+                "target_attribute_name": "shutter_speed_range",
+                "provenances": [
+                    "PROVENANCE#204839",
+                    "PROVENANCE#204843"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#39",
+                "target_attribute_name": "shutter_speed_min",
+                "provenances": [
+                    "PROVENANCE#204843"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#53",
+                "target_attribute_name": "zoom_optical",
+                "provenances": [
+                    "PROVENANCE#4315",
+                    "PROVENANCE#204847"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#30",
+                "target_attribute_name": "picture_angle",
+                "provenances": [
+                    "PROVENANCE#204849"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#32",
+                "target_attribute_name": "red_eye_reduction",
+                "provenances": [
+                    "PROVENANCE#4310",
+                    "PROVENANCE#204851"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#35",
+                "target_attribute_name": "self_timer",
+                "provenances": [
+                    "PROVENANCE#204853"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#45",
+                "target_attribute_name": "supported_languages_number",
+                "provenances": [
+                    "PROVENANCE#204859"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#46",
+                "target_attribute_name": "video_format",
+                "provenances": [
+                    "PROVENANCE#204864"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#47",
+                "target_attribute_name": "video_resolution",
+                "provenances": [
+                    "PROVENANCE#204863"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#49",
+                "target_attribute_name": "white_balance",
+                "provenances": [
+                    "PROVENANCE#204867"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#11",
+                "target_attribute_name": "camera_type",
+                "provenances": [
+                    "PROVENANCE#431047"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#7",
+                "target_attribute_name": "brand",
+                "provenances": [
+                    "PROVENANCE#204817",
+                    "PROVENANCE#431051"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#33",
+                "target_attribute_name": "screen_size",
+                "provenances": [
+                    "PROVENANCE#204837"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#13",
+                "target_attribute_name": "color",
+                "provenances": [
+                    "PROVENANCE#204819"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#6",
+                "target_attribute_name": "battery_type",
+                "provenances": [
+                    "PROVENANCE#4282",
+                    "PROVENANCE#204816"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#4",
+                "target_attribute_name": "battery_chemistry",
+                "provenances": [
+                    "PROVENANCE#4282",
+                    "PROVENANCE#204816"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#17",
+                "target_attribute_name": "external_memory_type",
+                "provenances": [
+                    "PROVENANCE#204840"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#37",
+                "target_attribute_name": "sensor_type",
+                "provenances": [
+                    "PROVENANCE#204855"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#1",
+                "target_attribute_name": "auto_focus_beam",
+                "provenances": [
+                    "PROVENANCE#4277"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#3",
+                "target_attribute_name": "auto_focus_points",
+                "provenances": [
+                    "PROVENANCE#4281"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#15",
+                "target_attribute_name": "exposure_compensation",
+                "provenances": [
+                    "PROVENANCE#4292"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#51",
+                "target_attribute_name": "zoom_combined",
+                "provenances": [
+                    "PROVENANCE#4315"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#42",
+                "target_attribute_name": "supported_aspect_ratio",
+                "provenances": [
+                    "PROVENANCE#204858"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#29",
+                "target_attribute_name": "microphone_type",
+                "provenances": [
+                    "PROVENANCE#204842"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#34",
+                "target_attribute_name": "screen_type",
+                "provenances": [
+                    "PROVENANCE#204836"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#36",
+                "target_attribute_name": "sensor_size",
+                "provenances": [
+                    "PROVENANCE#204854"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#48",
+                "target_attribute_name": "warranty_duration",
+                "provenances": [
+                    "PROVENANCE#204865"
+                ]
+            }
+        ],
+        "instances": [
+            "JSON#145",
+            "JSON#9139",
+            "JSON#27043"
+        ]
+    },
+    {
+        "resource_class": "entity",
+        "resource_id": "ENTITY#66",
+        "claims": [
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#43",
+                "target_attribute_name": "supported_audio_formats",
+                "provenances": [
+                    "PROVENANCE#203965",
+                    "PROVENANCE#222855"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#2",
+                "target_attribute_name": "auto_focus_mode",
+                "provenances": [
+                    "PROVENANCE#203966",
+                    "PROVENANCE#203983",
+                    "PROVENANCE#495827",
+                    "PROVENANCE#222856"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#23",
+                "target_attribute_name": "image_resolution",
+                "provenances": [
+                    "PROVENANCE#204003",
+                    "PROVENANCE#495858",
+                    "PROVENANCE#495916",
+                    "PROVENANCE#222858",
+                    "PROVENANCE#222869",
+                    "PROVENANCE#216112"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#22",
+                "target_attribute_name": "image_format",
+                "provenances": [
+                    "PROVENANCE#203988",
+                    "PROVENANCE#495915",
+                    "PROVENANCE#222864",
+                    "PROVENANCE#216116"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#26",
+                "target_attribute_name": "iso_sensitivity_min",
+                "provenances": [
+                    "PROVENANCE#495881",
+                    "PROVENANCE#222866",
+                    "PROVENANCE#216111"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#25",
+                "target_attribute_name": "iso_sensitivity_max",
+                "provenances": [
+                    "PROVENANCE#495881",
+                    "PROVENANCE#222866",
+                    "PROVENANCE#216111"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#27",
+                "target_attribute_name": "iso_sensitivity_range",
+                "provenances": [
+                    "PROVENANCE#495881",
+                    "PROVENANCE#222866",
+                    "PROVENANCE#216111"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#28",
+                "target_attribute_name": "lens_mount_type",
+                "provenances": [
+                    "PROVENANCE#203992",
+                    "PROVENANCE#495882",
+                    "PROVENANCE#222867"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#47",
+                "target_attribute_name": "video_resolution",
+                "provenances": [
+                    "PROVENANCE#204010",
+                    "PROVENANCE#222869"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#38",
+                "target_attribute_name": "shutter_speed_max",
+                "provenances": [
+                    "PROVENANCE#203996",
+                    "PROVENANCE#222870",
+                    "PROVENANCE#216115"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#40",
+                "target_attribute_name": "shutter_speed_range",
+                "provenances": [
+                    "PROVENANCE#203996",
+                    "PROVENANCE#204001",
+                    "PROVENANCE#222870",
+                    "PROVENANCE#222872",
+                    "PROVENANCE#216115"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#39",
+                "target_attribute_name": "shutter_speed_min",
+                "provenances": [
+                    "PROVENANCE#204001",
+                    "PROVENANCE#222872",
+                    "PROVENANCE#216115"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#53",
+                "target_attribute_name": "zoom_optical",
+                "provenances": [
+                    "PROVENANCE#222873"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#35",
+                "target_attribute_name": "self_timer",
+                "provenances": [
+                    "PROVENANCE#204017",
+                    "PROVENANCE#222876"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#36",
+                "target_attribute_name": "sensor_size",
+                "provenances": [
+                    "PROVENANCE#204018",
+                    "PROVENANCE#222877"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#37",
+                "target_attribute_name": "sensor_type",
+                "provenances": [
+                    "PROVENANCE#204019",
+                    "PROVENANCE#222878",
+                    "PROVENANCE#216113"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#45",
+                "target_attribute_name": "supported_languages_number",
+                "provenances": [
+                    "PROVENANCE#204024",
+                    "PROVENANCE#495888",
+                    "PROVENANCE#222880"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#44",
+                "target_attribute_name": "supported_languages",
+                "provenances": [
+                    "PROVENANCE#495888"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#46",
+                "target_attribute_name": "video_format",
+                "provenances": [
+                    "PROVENANCE#204029",
+                    "PROVENANCE#222882"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#49",
+                "target_attribute_name": "white_balance",
+                "provenances": [
+                    "PROVENANCE#204038",
+                    "PROVENANCE#222884"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#6",
+                "target_attribute_name": "battery_type",
+                "provenances": [
+                    "PROVENANCE#495832"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#4",
+                "target_attribute_name": "battery_chemistry",
+                "provenances": [
+                    "PROVENANCE#203967",
+                    "PROVENANCE#495832"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#7",
+                "target_attribute_name": "brand",
+                "provenances": [
+                    "PROVENANCE#203968"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#13",
+                "target_attribute_name": "color",
+                "provenances": [
+                    "PROVENANCE#203971"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#9",
+                "target_attribute_name": "camera_dimension",
+                "provenances": [
+                    "PROVENANCE#203973",
+                    "PROVENANCE#495853"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#12",
+                "target_attribute_name": "camera_width",
+                "provenances": [
+                    "PROVENANCE#203973",
+                    "PROVENANCE#495853"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#10",
+                "target_attribute_name": "camera_height",
+                "provenances": [
+                    "PROVENANCE#203973",
+                    "PROVENANCE#495853"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#8",
+                "target_attribute_name": "camera_depth",
+                "provenances": [
+                    "PROVENANCE#203973",
+                    "PROVENANCE#495853"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#15",
+                "target_attribute_name": "exposure_compensation",
+                "provenances": [
+                    "PROVENANCE#203976",
+                    "PROVENANCE#495859"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#21",
+                "target_attribute_name": "focal_length_range",
+                "provenances": [
+                    "PROVENANCE#203982"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#20",
+                "target_attribute_name": "focal_length_min",
+                "provenances": [
+                    "PROVENANCE#203982"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#19",
+                "target_attribute_name": "focal_length_max",
+                "provenances": [
+                    "PROVENANCE#203982"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#50",
+                "target_attribute_name": "working_humidity",
+                "provenances": [
+                    "PROVENANCE#203986"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#34",
+                "target_attribute_name": "screen_type",
+                "provenances": [
+                    "PROVENANCE#203990"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#33",
+                "target_attribute_name": "screen_size",
+                "provenances": [
+                    "PROVENANCE#203991"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#17",
+                "target_attribute_name": "external_memory_type",
+                "provenances": [
+                    "PROVENANCE#203997"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#29",
+                "target_attribute_name": "microphone_type",
+                "provenances": [
+                    "PROVENANCE#203999"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#41",
+                "target_attribute_name": "shutter_type",
+                "provenances": [
+                    "PROVENANCE#204021"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#42",
+                "target_attribute_name": "supported_aspect_ratio",
+                "provenances": [
+                    "PROVENANCE#204023",
+                    "PROVENANCE#495831"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#48",
+                "target_attribute_name": "warranty_duration",
+                "provenances": [
+                    "PROVENANCE#204035"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#1",
+                "target_attribute_name": "auto_focus_beam",
+                "provenances": [
+                    "PROVENANCE#495825"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#3",
+                "target_attribute_name": "auto_focus_points",
+                "provenances": [
+                    "PROVENANCE#495829",
+                    "PROVENANCE#222874"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#5",
+                "target_attribute_name": "battery_duration",
+                "provenances": [
+                    "PROVENANCE#495835"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#14",
+                "target_attribute_name": "color_filter",
+                "provenances": [
+                    "PROVENANCE#495844"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#32",
+                "target_attribute_name": "red_eye_reduction",
+                "provenances": [
+                    "PROVENANCE#495907"
+                ]
+            }
+        ],
+        "instances": [
+            "JSON#9120",
+            "JSON#29744",
+            "JSON#10288",
+            "JSON#9558",
+            "JSON#10110",
+            "JSON#9816",
+            "JSON#9520",
+            "JSON#25464"
+        ]
+    },
+    {
+        "resource_class": "entity",
+        "resource_id": "ENTITY#71",
+        "claims": [
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#2",
+                "target_attribute_name": "auto_focus_mode",
+                "provenances": [
+                    "PROVENANCE#202381"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#4",
+                "target_attribute_name": "battery_chemistry",
+                "provenances": [
+                    "PROVENANCE#202382"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#7",
+                "target_attribute_name": "brand",
+                "provenances": [
+                    "PROVENANCE#202383",
+                    "PROVENANCE#354371"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#13",
+                "target_attribute_name": "color",
+                "provenances": [
+                    "PROVENANCE#202385"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#14",
+                "target_attribute_name": "color_filter",
+                "provenances": [
+                    "PROVENANCE#202386"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#52",
+                "target_attribute_name": "zoom_digital",
+                "provenances": [
+                    "PROVENANCE#202389"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#9",
+                "target_attribute_name": "camera_dimension",
+                "provenances": [
+                    "PROVENANCE#202390"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#12",
+                "target_attribute_name": "camera_width",
+                "provenances": [
+                    "PROVENANCE#202390"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#10",
+                "target_attribute_name": "camera_height",
+                "provenances": [
+                    "PROVENANCE#202390"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#8",
+                "target_attribute_name": "camera_depth",
+                "provenances": [
+                    "PROVENANCE#202390"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#21",
+                "target_attribute_name": "focal_length_range",
+                "provenances": [
+                    "PROVENANCE#202394"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#20",
+                "target_attribute_name": "focal_length_min",
+                "provenances": [
+                    "PROVENANCE#202394"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#19",
+                "target_attribute_name": "focal_length_max",
+                "provenances": [
+                    "PROVENANCE#202394"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#22",
+                "target_attribute_name": "image_format",
+                "provenances": [
+                    "PROVENANCE#202396"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#27",
+                "target_attribute_name": "iso_sensitivity_range",
+                "provenances": [
+                    "PROVENANCE#202398"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#26",
+                "target_attribute_name": "iso_sensitivity_min",
+                "provenances": [
+                    "PROVENANCE#202398"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#25",
+                "target_attribute_name": "iso_sensitivity_max",
+                "provenances": [
+                    "PROVENANCE#202398"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#34",
+                "target_attribute_name": "screen_type",
+                "provenances": [
+                    "PROVENANCE#202399"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#33",
+                "target_attribute_name": "screen_size",
+                "provenances": [
+                    "PROVENANCE#202400",
+                    "PROVENANCE#354377"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#28",
+                "target_attribute_name": "lens_mount_type",
+                "provenances": [
+                    "PROVENANCE#202401"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#38",
+                "target_attribute_name": "shutter_speed_max",
+                "provenances": [
+                    "PROVENANCE#202403"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#40",
+                "target_attribute_name": "shutter_speed_range",
+                "provenances": [
+                    "PROVENANCE#202403",
+                    "PROVENANCE#202407"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#17",
+                "target_attribute_name": "external_memory_type",
+                "provenances": [
+                    "PROVENANCE#202404"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#29",
+                "target_attribute_name": "microphone_type",
+                "provenances": [
+                    "PROVENANCE#202406"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#39",
+                "target_attribute_name": "shutter_speed_min",
+                "provenances": [
+                    "PROVENANCE#202407"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#23",
+                "target_attribute_name": "image_resolution",
+                "provenances": [
+                    "PROVENANCE#202410",
+                    "PROVENANCE#202412",
+                    "PROVENANCE#354374"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#53",
+                "target_attribute_name": "zoom_optical",
+                "provenances": [
+                    "PROVENANCE#202411",
+                    "PROVENANCE#354376"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#47",
+                "target_attribute_name": "video_resolution",
+                "provenances": [
+                    "PROVENANCE#202412",
+                    "PROVENANCE#202427"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#30",
+                "target_attribute_name": "picture_angle",
+                "provenances": [
+                    "PROVENANCE#202414"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#32",
+                "target_attribute_name": "red_eye_reduction",
+                "provenances": [
+                    "PROVENANCE#202415"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#35",
+                "target_attribute_name": "self_timer",
+                "provenances": [
+                    "PROVENANCE#202417"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#36",
+                "target_attribute_name": "sensor_size",
+                "provenances": [
+                    "PROVENANCE#202418"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#37",
+                "target_attribute_name": "sensor_type",
+                "provenances": [
+                    "PROVENANCE#202419"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#42",
+                "target_attribute_name": "supported_aspect_ratio",
+                "provenances": [
+                    "PROVENANCE#202422"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#45",
+                "target_attribute_name": "supported_languages_number",
+                "provenances": [
+                    "PROVENANCE#202423"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#46",
+                "target_attribute_name": "video_format",
+                "provenances": [
+                    "PROVENANCE#202428"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#48",
+                "target_attribute_name": "warranty_duration",
+                "provenances": [
+                    "PROVENANCE#202430"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#49",
+                "target_attribute_name": "white_balance",
+                "provenances": [
+                    "PROVENANCE#202432"
+                ]
+            }
+        ],
+        "instances": [
+            "JSON#9088",
+            "JSON#22333"
+        ]
+    },
+    {
+        "resource_class": "entity",
+        "resource_id": "ENTITY#81",
+        "claims": [
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#11",
+                "target_attribute_name": "camera_type",
+                "provenances": [
+                    "PROVENANCE#395211"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#9",
+                "target_attribute_name": "camera_dimension",
+                "provenances": [
+                    "PROVENANCE#395214"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#12",
+                "target_attribute_name": "camera_width",
+                "provenances": [
+                    "PROVENANCE#395214"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#10",
+                "target_attribute_name": "camera_height",
+                "provenances": [
+                    "PROVENANCE#395214"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#8",
+                "target_attribute_name": "camera_depth",
+                "provenances": [
+                    "PROVENANCE#395214"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#33",
+                "target_attribute_name": "screen_size",
+                "provenances": [
+                    "PROVENANCE#395215"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#23",
+                "target_attribute_name": "image_resolution",
+                "provenances": [
+                    "PROVENANCE#395219"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#47",
+                "target_attribute_name": "video_resolution",
+                "provenances": [
+                    "PROVENANCE#395221"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#52",
+                "target_attribute_name": "zoom_digital",
+                "provenances": [
+                    "PROVENANCE#395223"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#7",
+                "target_attribute_name": "brand",
+                "provenances": [
+                    "PROVENANCE#431751"
+                ]
+            }
+        ],
+        "instances": [
+            "JSON#26048",
+            "JSON#27112"
+        ]
+    },
+    {
+        "resource_class": "entity",
+        "resource_id": "ENTITY#11",
+        "claims": [
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#11",
+                "target_attribute_name": "camera_type",
+                "provenances": [
+                    "PROVENANCE#16345",
+                    "PROVENANCE#458947"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#8",
+                "target_attribute_name": "camera_depth",
+                "provenances": [
+                    "PROVENANCE#16346",
+                    "PROVENANCE#456242",
+                    "PROVENANCE#458951"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#9",
+                "target_attribute_name": "camera_dimension",
+                "provenances": [
+                    "PROVENANCE#16346",
+                    "PROVENANCE#16367",
+                    "PROVENANCE#456242",
+                    "PROVENANCE#458951",
+                    "PROVENANCE#458966",
+                    "PROVENANCE#459015"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#52",
+                "target_attribute_name": "zoom_digital",
+                "provenances": [
+                    "PROVENANCE#16347",
+                    "PROVENANCE#458952"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#23",
+                "target_attribute_name": "image_resolution",
+                "provenances": [
+                    "PROVENANCE#16348",
+                    "PROVENANCE#16363",
+                    "PROVENANCE#456227",
+                    "PROVENANCE#456235",
+                    "PROVENANCE#458985",
+                    "PROVENANCE#458987",
+                    "PROVENANCE#459005"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#21",
+                "target_attribute_name": "focal_length_range",
+                "provenances": [
+                    "PROVENANCE#16350",
+                    "PROVENANCE#16351",
+                    "PROVENANCE#456219",
+                    "PROVENANCE#456220",
+                    "PROVENANCE#458959",
+                    "PROVENANCE#458984",
+                    "PROVENANCE#458989"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#20",
+                "target_attribute_name": "focal_length_min",
+                "provenances": [
+                    "PROVENANCE#16350",
+                    "PROVENANCE#16351",
+                    "PROVENANCE#456220",
+                    "PROVENANCE#458959",
+                    "PROVENANCE#458989"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#19",
+                "target_attribute_name": "focal_length_max",
+                "provenances": [
+                    "PROVENANCE#16350",
+                    "PROVENANCE#16351",
+                    "PROVENANCE#456219",
+                    "PROVENANCE#458959",
+                    "PROVENANCE#458984"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#37",
+                "target_attribute_name": "sensor_type",
+                "provenances": [
+                    "PROVENANCE#16353",
+                    "PROVENANCE#456239",
+                    "PROVENANCE#459001"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#24",
+                "target_attribute_name": "internal_memory_capacity",
+                "provenances": [
+                    "PROVENANCE#16355",
+                    "PROVENANCE#458970"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#33",
+                "target_attribute_name": "screen_size",
+                "provenances": [
+                    "PROVENANCE#16357",
+                    "PROVENANCE#456237"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#28",
+                "target_attribute_name": "lens_mount_type",
+                "provenances": [
+                    "PROVENANCE#16358"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#47",
+                "target_attribute_name": "video_resolution",
+                "provenances": [
+                    "PROVENANCE#16360",
+                    "PROVENANCE#456221",
+                    "PROVENANCE#456229",
+                    "PROVENANCE#456235",
+                    "PROVENANCE#458986",
+                    "PROVENANCE#458990",
+                    "PROVENANCE#459009"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#17",
+                "target_attribute_name": "external_memory_type",
+                "provenances": [
+                    "PROVENANCE#16361",
+                    "PROVENANCE#456210",
+                    "PROVENANCE#458950"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#53",
+                "target_attribute_name": "zoom_optical",
+                "provenances": [
+                    "PROVENANCE#16362",
+                    "PROVENANCE#456231",
+                    "PROVENANCE#458994"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#48",
+                "target_attribute_name": "warranty_duration",
+                "provenances": [
+                    "PROVENANCE#16365"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#12",
+                "target_attribute_name": "camera_width",
+                "provenances": [
+                    "PROVENANCE#16367",
+                    "PROVENANCE#456242",
+                    "PROVENANCE#459015"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#7",
+                "target_attribute_name": "brand",
+                "provenances": [
+                    "PROVENANCE#458982"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#13",
+                "target_attribute_name": "color",
+                "provenances": [
+                    "PROVENANCE#456211",
+                    "PROVENANCE#458948"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#6",
+                "target_attribute_name": "battery_type",
+                "provenances": [
+                    "PROVENANCE#456208",
+                    "PROVENANCE#458941"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#15",
+                "target_attribute_name": "exposure_compensation",
+                "provenances": [
+                    "PROVENANCE#456213",
+                    "PROVENANCE#458977"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#16",
+                "target_attribute_name": "exposure_mode",
+                "provenances": [
+                    "PROVENANCE#456214",
+                    "PROVENANCE#458976",
+                    "PROVENANCE#458978"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#22",
+                "target_attribute_name": "image_format",
+                "provenances": [
+                    "PROVENANCE#456216",
+                    "PROVENANCE#458967"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#46",
+                "target_attribute_name": "video_format",
+                "provenances": [
+                    "PROVENANCE#456216",
+                    "PROVENANCE#459008"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#25",
+                "target_attribute_name": "iso_sensitivity_max",
+                "provenances": [
+                    "PROVENANCE#456223",
+                    "PROVENANCE#458971",
+                    "PROVENANCE#458972"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#27",
+                "target_attribute_name": "iso_sensitivity_range",
+                "provenances": [
+                    "PROVENANCE#456223",
+                    "PROVENANCE#456224",
+                    "PROVENANCE#458971",
+                    "PROVENANCE#458972",
+                    "PROVENANCE#458973"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#26",
+                "target_attribute_name": "iso_sensitivity_min",
+                "provenances": [
+                    "PROVENANCE#456224",
+                    "PROVENANCE#458971",
+                    "PROVENANCE#458973"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#36",
+                "target_attribute_name": "sensor_size",
+                "provenances": [
+                    "PROVENANCE#456238",
+                    "PROVENANCE#458968"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#38",
+                "target_attribute_name": "shutter_speed_max",
+                "provenances": [
+                    "PROVENANCE#456240",
+                    "PROVENANCE#458945"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#40",
+                "target_attribute_name": "shutter_speed_range",
+                "provenances": [
+                    "PROVENANCE#456240",
+                    "PROVENANCE#456241",
+                    "PROVENANCE#458944",
+                    "PROVENANCE#458945"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#39",
+                "target_attribute_name": "shutter_speed_min",
+                "provenances": [
+                    "PROVENANCE#456241",
+                    "PROVENANCE#458944"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#10",
+                "target_attribute_name": "camera_height",
+                "provenances": [
+                    "PROVENANCE#456242",
+                    "PROVENANCE#458966"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#5",
+                "target_attribute_name": "battery_duration",
+                "provenances": [
+                    "PROVENANCE#458939"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#4",
+                "target_attribute_name": "battery_chemistry",
+                "provenances": [
+                    "PROVENANCE#458940"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#41",
+                "target_attribute_name": "shutter_type",
+                "provenances": [
+                    "PROVENANCE#458946"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#34",
+                "target_attribute_name": "screen_type",
+                "provenances": [
+                    "PROVENANCE#458953"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#35",
+                "target_attribute_name": "self_timer",
+                "provenances": [
+                    "PROVENANCE#459000"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#42",
+                "target_attribute_name": "supported_aspect_ratio",
+                "provenances": [
+                    "PROVENANCE#459006"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#49",
+                "target_attribute_name": "white_balance",
+                "provenances": [
+                    "PROVENANCE#459014"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#2",
+                "target_attribute_name": "auto_focus_mode",
+                "provenances": [
+                    "PROVENANCE#458937"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#29",
+                "target_attribute_name": "microphone_type",
+                "provenances": [
+                    "PROVENANCE#458942"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#50",
+                "target_attribute_name": "working_humidity",
+                "provenances": [
+                    "PROVENANCE#458992"
+                ]
+            }
+        ],
+        "instances": [
+            "JSON#543",
+            "JSON#28675",
+            "JSON#28745"
+        ]
+    },
+    {
+        "resource_class": "entity",
+        "resource_id": "ENTITY#78",
+        "claims": [
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#11",
+                "target_attribute_name": "camera_type",
+                "provenances": [
+                    "PROVENANCE#476906"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#9",
+                "target_attribute_name": "camera_dimension",
+                "provenances": [
+                    "PROVENANCE#476910",
+                    "PROVENANCE#476919",
+                    "PROVENANCE#476947"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#12",
+                "target_attribute_name": "camera_width",
+                "provenances": [
+                    "PROVENANCE#476947"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#10",
+                "target_attribute_name": "camera_height",
+                "provenances": [
+                    "PROVENANCE#476919"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#8",
+                "target_attribute_name": "camera_depth",
+                "provenances": [
+                    "PROVENANCE#476910"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#33",
+                "target_attribute_name": "screen_size",
+                "provenances": [
+                    "PROVENANCE#270644",
+                    "PROVENANCE#476912",
+                    "PROVENANCE#476922",
+                    "PROVENANCE#476923",
+                    "PROVENANCE#297202"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#23",
+                "target_attribute_name": "image_resolution",
+                "provenances": [
+                    "PROVENANCE#270640",
+                    "PROVENANCE#476905",
+                    "PROVENANCE#476913",
+                    "PROVENANCE#476925",
+                    "PROVENANCE#476929",
+                    "PROVENANCE#297198"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#52",
+                "target_attribute_name": "zoom_digital",
+                "provenances": [
+                    "PROVENANCE#476911"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#53",
+                "target_attribute_name": "zoom_optical",
+                "provenances": [
+                    "PROVENANCE#270643",
+                    "PROVENANCE#476927",
+                    "PROVENANCE#297201"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#7",
+                "target_attribute_name": "brand",
+                "provenances": [
+                    "PROVENANCE#270638",
+                    "PROVENANCE#297195"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#6",
+                "target_attribute_name": "battery_type",
+                "provenances": [
+                    "PROVENANCE#476908"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#35",
+                "target_attribute_name": "self_timer",
+                "provenances": [
+                    "PROVENANCE#476930"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#22",
+                "target_attribute_name": "image_format",
+                "provenances": [
+                    "PROVENANCE#476920"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#13",
+                "target_attribute_name": "color",
+                "provenances": [
+                    "PROVENANCE#476904",
+                    "PROVENANCE#476907"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#16",
+                "target_attribute_name": "exposure_mode",
+                "provenances": [
+                    "PROVENANCE#476915"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#17",
+                "target_attribute_name": "external_memory_type",
+                "provenances": [
+                    "PROVENANCE#476926",
+                    "PROVENANCE#476928",
+                    "PROVENANCE#476939"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#40",
+                "target_attribute_name": "shutter_speed_range",
+                "provenances": [
+                    "PROVENANCE#476932"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#39",
+                "target_attribute_name": "shutter_speed_min",
+                "provenances": [
+                    "PROVENANCE#476932"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#38",
+                "target_attribute_name": "shutter_speed_max",
+                "provenances": [
+                    "PROVENANCE#476932"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#48",
+                "target_attribute_name": "warranty_duration",
+                "provenances": [
+                    "PROVENANCE#476937"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#49",
+                "target_attribute_name": "white_balance",
+                "provenances": [
+                    "PROVENANCE#476946"
+                ]
+            }
+        ],
+        "instances": [
+            "JSON#14065",
+            "JSON#29246",
+            "JSON#16623"
+        ]
+    },
+    {
+        "resource_class": "entity",
+        "resource_id": "ENTITY#10",
+        "claims": [
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#23",
+                "target_attribute_name": "image_resolution",
+                "provenances": [
+                    "PROVENANCE#306684",
+                    "PROVENANCE#327636",
+                    "PROVENANCE#264672"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#33",
+                "target_attribute_name": "screen_size",
+                "provenances": [
+                    "PROVENANCE#306687",
+                    "PROVENANCE#327639",
+                    "PROVENANCE#264675"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#7",
+                "target_attribute_name": "brand",
+                "provenances": [
+                    "PROVENANCE#306680",
+                    "PROVENANCE#327634",
+                    "PROVENANCE#264671"
+                ]
+            }
+        ],
+        "instances": [
+            "JSON#17541",
+            "JSON#19655",
+            "JSON#13481"
+        ]
+    },
+    {
+        "resource_class": "entity",
+        "resource_id": "ENTITY#35",
+        "claims": [
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#23",
+                "target_attribute_name": "image_resolution",
+                "provenances": [
+                    "PROVENANCE#447674",
+                    "PROVENANCE#221463",
+                    "PROVENANCE#497236",
+                    "PROVENANCE#456335",
+                    "PROVENANCE#456342"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#53",
+                "target_attribute_name": "zoom_optical",
+                "provenances": [
+                    "PROVENANCE#447686",
+                    "PROVENANCE#497231",
+                    "PROVENANCE#456339"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#33",
+                "target_attribute_name": "screen_size",
+                "provenances": [
+                    "PROVENANCE#447688",
+                    "PROVENANCE#497232",
+                    "PROVENANCE#456344"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#6",
+                "target_attribute_name": "battery_type",
+                "provenances": [
+                    "PROVENANCE#447661",
+                    "PROVENANCE#456319"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#24",
+                "target_attribute_name": "internal_memory_capacity",
+                "provenances": [
+                    "PROVENANCE#447663"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#11",
+                "target_attribute_name": "camera_type",
+                "provenances": [
+                    "PROVENANCE#447665"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#13",
+                "target_attribute_name": "color",
+                "provenances": [
+                    "PROVENANCE#447667",
+                    "PROVENANCE#456322"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#52",
+                "target_attribute_name": "zoom_digital",
+                "provenances": [
+                    "PROVENANCE#447670"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#9",
+                "target_attribute_name": "camera_dimension",
+                "provenances": [
+                    "PROVENANCE#447671",
+                    "PROVENANCE#497210",
+                    "PROVENANCE#456349"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#12",
+                "target_attribute_name": "camera_width",
+                "provenances": [
+                    "PROVENANCE#447671",
+                    "PROVENANCE#497210",
+                    "PROVENANCE#456349"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#10",
+                "target_attribute_name": "camera_height",
+                "provenances": [
+                    "PROVENANCE#447671",
+                    "PROVENANCE#497210",
+                    "PROVENANCE#456349"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#8",
+                "target_attribute_name": "camera_depth",
+                "provenances": [
+                    "PROVENANCE#447671",
+                    "PROVENANCE#497210",
+                    "PROVENANCE#456349"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#34",
+                "target_attribute_name": "screen_type",
+                "provenances": [
+                    "PROVENANCE#447672",
+                    "PROVENANCE#497232"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#16",
+                "target_attribute_name": "exposure_mode",
+                "provenances": [
+                    "PROVENANCE#447675",
+                    "PROVENANCE#497212"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#22",
+                "target_attribute_name": "image_format",
+                "provenances": [
+                    "PROVENANCE#447677",
+                    "PROVENANCE#221467",
+                    "PROVENANCE#497214",
+                    "PROVENANCE#456324"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#46",
+                "target_attribute_name": "video_format",
+                "provenances": [
+                    "PROVENANCE#447677",
+                    "PROVENANCE#497214"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#27",
+                "target_attribute_name": "iso_sensitivity_range",
+                "provenances": [
+                    "PROVENANCE#447681",
+                    "PROVENANCE#221461",
+                    "PROVENANCE#497230",
+                    "PROVENANCE#456330",
+                    "PROVENANCE#456331"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#26",
+                "target_attribute_name": "iso_sensitivity_min",
+                "provenances": [
+                    "PROVENANCE#447681",
+                    "PROVENANCE#221461",
+                    "PROVENANCE#497230",
+                    "PROVENANCE#456331"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#25",
+                "target_attribute_name": "iso_sensitivity_max",
+                "provenances": [
+                    "PROVENANCE#447681",
+                    "PROVENANCE#221461",
+                    "PROVENANCE#497230",
+                    "PROVENANCE#456330"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#28",
+                "target_attribute_name": "lens_mount_type",
+                "provenances": [
+                    "PROVENANCE#497231"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#35",
+                "target_attribute_name": "self_timer",
+                "provenances": [
+                    "PROVENANCE#447689"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#37",
+                "target_attribute_name": "sensor_type",
+                "provenances": [
+                    "PROVENANCE#447690",
+                    "PROVENANCE#497226",
+                    "PROVENANCE#456346"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#36",
+                "target_attribute_name": "sensor_size",
+                "provenances": [
+                    "PROVENANCE#447690",
+                    "PROVENANCE#497226",
+                    "PROVENANCE#456345"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#40",
+                "target_attribute_name": "shutter_speed_range",
+                "provenances": [
+                    "PROVENANCE#447692",
+                    "PROVENANCE#456347",
+                    "PROVENANCE#456348"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#39",
+                "target_attribute_name": "shutter_speed_min",
+                "provenances": [
+                    "PROVENANCE#447692",
+                    "PROVENANCE#456348"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#38",
+                "target_attribute_name": "shutter_speed_max",
+                "provenances": [
+                    "PROVENANCE#447692",
+                    "PROVENANCE#456347"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#49",
+                "target_attribute_name": "white_balance",
+                "provenances": [
+                    "PROVENANCE#447696"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#2",
+                "target_attribute_name": "auto_focus_mode",
+                "provenances": [
+                    "PROVENANCE#497204",
+                    "PROVENANCE#497221"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#15",
+                "target_attribute_name": "exposure_compensation",
+                "provenances": [
+                    "PROVENANCE#497212"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#21",
+                "target_attribute_name": "focal_length_range",
+                "provenances": [
+                    "PROVENANCE#221462",
+                    "PROVENANCE#221464",
+                    "PROVENANCE#497219",
+                    "PROVENANCE#456326",
+                    "PROVENANCE#456327"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#20",
+                "target_attribute_name": "focal_length_min",
+                "provenances": [
+                    "PROVENANCE#221464",
+                    "PROVENANCE#497219",
+                    "PROVENANCE#456327"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#19",
+                "target_attribute_name": "focal_length_max",
+                "provenances": [
+                    "PROVENANCE#221462",
+                    "PROVENANCE#497219",
+                    "PROVENANCE#456326"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#50",
+                "target_attribute_name": "working_humidity",
+                "provenances": [
+                    "PROVENANCE#497225"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#17",
+                "target_attribute_name": "external_memory_type",
+                "provenances": [
+                    "PROVENANCE#456321"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#47",
+                "target_attribute_name": "video_resolution",
+                "provenances": [
+                    "PROVENANCE#456328",
+                    "PROVENANCE#456337",
+                    "PROVENANCE#456342"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#41",
+                "target_attribute_name": "shutter_type",
+                "provenances": [
+                    "PROVENANCE#497244"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#44",
+                "target_attribute_name": "supported_languages",
+                "provenances": [
+                    "PROVENANCE#497248"
+                ]
+            },
+            {
+                "target_attribute_id": "TARGETATTRIBUTE#18",
+                "target_attribute_name": "file_system",
+                "provenances": [
+                    "PROVENANCE#497215"
+                ]
+            }
+        ],
+        "instances": [
+            "JSON#28329",
+            "JSON#10216",
+            "JSON#29764",
+            "JSON#28678",
+            "JSON#21",
+            "JSON#109"
+        ]
+    }
+]
