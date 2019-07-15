@@ -26,8 +26,8 @@ def dm_train(df):
     #Create a hybrid model.
     model = dm.MatchingModel(attr_summarizer='hybrid')
 
-    # Train the hybrid model with 10 training epochs, batch size of 16, positive-to-negative
-    # ratio to be 3. We save the best model (with the
+    # Train the hybrid model with 3 training epochs, batch size of 16, positive-to-negative
+    # ratio to be 10. We save the best model (with the
     # highest F1 score on the validation set) to 'hybrid_model.pth'.
     model.run_train(
         train,
@@ -43,12 +43,7 @@ def dm_train(df):
     return model
 
 def dm_prediction(model):
-
-    #model = dm.MatchingModel(attr_summarizer='hybrid')
-    #model.load_state(os.path.join(".","classifiers","training_files","hybrid_model.pth"))
-
-    # Load the candidate set. Note that the trained model is an input parameter as we need to trained
-    # model for candidate set preprocessing.
+    # Load the candidate set.
     candidate = dm.data.process_unlabeled(
         path=config.PATHS["deepmatcher_unlabeled"],
         trained_model=model,
