@@ -72,13 +72,44 @@ Verrà avviato un notebook di jupyter con associato un link che apparirà sulla 
 ```
 http://localhost:8989/?token=0a8aa13f83e307310006721ad0ffe0b44e90d65465206b37
 ```
-Effettuare un port tunnelling tramite il comando da una nuova shell
+Aprire una nuova shell ed effettuare un port tunneling tramite il seguente comando,
+andando a sostituire il numero delle porte con quello specificato nel link.
 ```
 ssh -N -f -L 8888:localhost:8888 nvidia@tesla.inf.uniroma3.it
 ```
-Andando a sostituire il numero delle porte con quello specificato nel link.
-
-Copiare il link del notebook nel browser ed eseguire il run.
+Copiare il link del notebook nel browser, aprire il file Oracolo.ipynb ed eseguire il run.
+Una volta etichettate tutte le predizioni cliccare il pulsante save per salvare il file
+```
+./oracolo/true_preditioncs.csv
+```
 **Nota bene: il file può essere salvato solo se vengono etichettate tutte le coppie di istanze**
+Terminare il processo del notebook sulla Tesla
+
+
+## Espandere la ground truth
+Per espandere la ground truth a partire dal file in uscita dall'oracolo eseguire
+```
+sh expand_gt.sh
+```
+Per verificare la corretta esecuzione
+```
+python3
+
+from pymongo import MongoClient
+c = MongoClient("mongodb://enit.inf.uniroma3.it:8080")
+c.list_database_names()
+```
+Verificare che ci siano i database ground_truth e ground_false(contenente le predizioni negative dell'oracolo).
+Per controllare i nomi delle collezioni eseguire il comando
+```
+c.*nome_database*.list_collection_names()
+```
+Per visualizzare gli elementi delle collezioni eseguire
+```
+import pprint
+for e in c.*nome_database*.*nome_collezione*.find():
+    pprint.pprint(e)
+```
+
 
 
