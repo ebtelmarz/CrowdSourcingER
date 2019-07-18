@@ -83,6 +83,7 @@ Una volta etichettate tutte le predizioni cliccare il pulsante save per salvare 
 ./oracolo/true_preditioncs.csv
 ```
 **Nota bene: il file può essere salvato solo se vengono etichettate tutte le coppie di istanze**
+
 Terminare il processo del notebook sulla Tesla
 
 
