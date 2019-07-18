@@ -52,7 +52,7 @@ nvidia-smi
 ```
 Eseguire un ciclo della pipeline utilizzando le GPU libere specificandone l'id
 ```
-CUDA_VISIBLE_DEVICE = 0,1 sh start.sh
+CUDA_VISIBLE_DEVICES=0,1 sh start.sh
 ```
 Il processo può richiede fino a 20 minuti, dipende dal numero di GPU utilizzate
 
